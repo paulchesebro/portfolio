@@ -1,0 +1,88 @@
+html {
+    font-family: Raleway;
+}
+header {
+    background-color: darkblue;
+    word-spacing: 3em;
+    line-height: 4em;
+    padding-left: 2em;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    left:0;
+}
+header a{
+    color: aliceblue;
+    text-decoration: none;
+}
+body {
+    background-color: aliceblue
+}
+footer {
+    background-color: darkblue;
+    color: aliceblue;
+    padding-left: 2em;
+    line-height: 2em;
+    padding-top: 1em;
+        padding-bottom: 1em;  
+    }
+    
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Lexend;
+    color: darkblue;
+    text-align: center;
+}
+footer h2 {
+    color: aliceblue;
+    text-align:left;
+}
+.enquire{
+    border: 2px solid aliceblue;
+    color: darkblue;
+    background-color: aliceblue;
+    padding: 0.5em;
+    text-decoration: none;
+}
+.view{
+    border: 2px solid darkblue;
+    color: aliceblue;
+    background-color: darkblue;
+    padding: 0.5em;
+    text-decoration: none;
+    text-align: center;
+}
+.ex{
+    text-align: center;
+    width: 80%;
+    border: 6px solid darkgrey;
+    padding: 1em;
+    background-color: darkblue;
+}
+a {
+    text-align: center;
+}
+.html{
+    width: 10%;
+}
+
+.about{
+    width: 85%
+}
+.about h2,
+.about h1{
+    text-align:left;
+
+}
+.name{
+    border: solid 2px darkblue;
+    font-size: 1.5em;
+}
+a{
+    text-decoration: none;
+    color: darkblue;
+}
